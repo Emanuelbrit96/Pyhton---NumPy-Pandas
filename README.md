@@ -1,3 +1,7 @@
 # Pyhton
 
-Estes projeto expõem meus primeiros passos no Python utilizando algumas das bibliotecas mais famosas a NumPy e a Pandas.
+
+Este repositório contém estudos feitos em Python utilizando algumas das bibliotecas mais famosas como NumPy, Pandas e trabalhando com Machine Learning. 
+
+
+- Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil: https://colab.research.google.com/drive/1MrRO2aVYmfGRYmUD9hxpOopfqFJXVKlx?usp=sharing
