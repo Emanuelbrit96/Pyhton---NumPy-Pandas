@@ -14,11 +14,11 @@ Este repositório contém estudos feitos em Python, trabalhando com alguns dados
 
 
 
-
+<div>
 <img align="center" alt="Emanuel-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
 
 <img align="center" alt="Emanuel-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
 
 <img align="center" alt="Emanuel-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"> 
-
+</div>
 
