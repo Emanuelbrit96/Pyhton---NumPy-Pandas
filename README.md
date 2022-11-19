@@ -6,7 +6,7 @@ Este repositório contém estudos feitos em Python, trabalhando com alguns dados
 
 - Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil: https://colab.research.google.com/drive/1MrRO2aVYmfGRYmUD9hxpOopfqFJXVKlx?usp=sharing
 
-
+- Cat-Dog Classification TransferLearning / Kaggle : https://colab.research.google.com/drive/1QXK-HtXwQoenj1Sws13dh530uscpyaXN#scrollTo=GG3PtSgykHyQ
 
 
 
